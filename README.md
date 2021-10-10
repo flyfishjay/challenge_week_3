@@ -4,6 +4,8 @@
 This is a python built analysis to see if there are any arbitrage opportunities across different crypto exchanges.  Roughly 3 months of data are used 
 with trades being captured every minute.
 
+Spreads and potential pnl are calculated and plotted to see the opportunities clearly. 
+
 ## Technologies
 This project uses Python 3.8
 Pandas 1.2.4
@@ -24,7 +26,7 @@ coinbase.csv
 
 
 #Usage
-Simply vcloine the github repository to run this programin Jupyter Lab 
+Clone the github repository to run this programin Jupyter Lab 
 git:  https://github.com/flyfishjay/challenge_week_3.git
 
 
